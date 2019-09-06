@@ -1,0 +1,3 @@
+
+
+The inverse first passage time problem asks for some distribution whether there is a barrier such that the first time a Brownian motion crosses the barrier has the given distribution. We consider a `smoothed' version of this problem in which the first passage time is replaced by the first instant that the time spent below the barrier exceeds an independent exponential random variable. We show that any distribution results from some unique barrier.
