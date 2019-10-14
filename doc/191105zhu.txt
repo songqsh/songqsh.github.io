@@ -1,0 +1,7 @@
+Title: Stochastic Gradient Hamiltonian Monte Carlo for Non-Convex Stochastic Optimization
+
+Speaker: Lingjiong Zhu (Florida State University)
+
+Abstract: 
+
+Stochastic gradient Hamiltonian Monte Carlo (SGHMC) is a variant of stochastic gradient with momentum where a controlled and properly scaled Gaussian noise is added to the stochastic gradients to steer the iterates towards a global minimum. Many works reported its empirical success in practice for solving stochastic non-convex optimization problems, in particular it has been observed to outperform overdamped Langevin Monte Carlo-based methods such as stochastic gradient Langevin dynamics (SGLD) in many applications. Although asymptotic global convergence properties of SGHMC are well known, its finite-time performance is not well-understood. In this work, we study two variants of SGHMC based on two alternative discretizations of the underdamped Langevin diffusion. We provide finite-time performance bounds for the global convergence of both SGHMC variants for solving stochastic non-convex optimization problems with explicit constants. Our results lead to non-asymptotic guarantees for both population and empirical risk minimization problems. For a fixed target accuracy level, on a class of non-convex problems, we obtain complexity bounds for SGHMC that can be tighter than those for SGLD. These results show that acceleration with momentum is possible in the context of global non-convex optimization. This is based on the joint work with Xuefeng Gao and Mert Gurbuzbalaban.

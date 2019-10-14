@@ -1,0 +1,9 @@
+Speaker: Ju-Yi Yen (University of Cincinnati)
+
+Date: Oct 29
+
+Title: Limit theorems and regenerative processes
+
+Abstract: 
+
+In this talk, we present limit theorems related to integrals of functions taken at the values of Brownian motion. These limit theorems involve regenerative processes and the local time of the Brownian motion.
