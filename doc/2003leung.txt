@@ -1,0 +1,24 @@
+Title: Dynamic Index Tracking and Risk Exposure Control Using Derivatives
+
+Abstract:
+
+A common challenge faced by many institutional and retail investors is to 
+effectively control risk exposure to various market factors. There is a great 
+variety of indices designed to provide different types of exposures across 
+sectors and asset classes. Some of these indices can be difficult or impossible 
+to trade directly, but investors can trade the associated financial derivatives
+ if they are available in the market. For example, the CBOE Volatility Index (VIX), 
+often referred to as the fear index, is not directly tradable, but investors can gain 
+exposure to the index and potentially hedge against market turmoil by trading 
+futures and options written on VIX.
+
+We develop a methodology for index tracking and risk exposure control using 
+financial derivatives. Under a continuous-time diffusion framework for price evolution, 
+we present a pathwise approach to construct dynamic portfolios of derivatives in order to 
+gain exposure to an index and/or market factors that may be not directly tradable. 
+A general tracking condition is established to relate the portfolio drift to the desired 
+exposure coefficients under any given model. We derive the slippage process that 
+reveals how the portfolio return deviates from the targeted return. In our multi-factor setting, 
+the portfolio's realized slippage depends not only on the realized variance of the index, 
+but also the realized covariance among the index and factors. Trading strategies are 
+implemented under a number of models using different derivatives, such as futures and options.

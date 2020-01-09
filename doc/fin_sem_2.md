@@ -46,5 +46,5 @@ from UW-Milwaukee
     - Title: TBD
 - Mar 20 Friday, 11am-12, [George Yin](http://www.math.wayne.edu/~gyin/) from Wayne State Univ   
 - Mar 23, [Tim Leung](https://amath.washington.edu/people/tim-leung) from UW-Seatle
-    - Title: TBD
+    - Title: Dynamic Index Tracking and Risk Exposure Control Using Derivatives ([abstract](2003Leung.txt))
 - Apr 20th, Patriots day
