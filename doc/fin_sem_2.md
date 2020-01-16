@@ -35,7 +35,7 @@ Regular meeting time is Monday 4-5pm at SH306. [Room booking](2020spring_room.pd
 [Soctt Robertson](https://www.bu.edu/questrom/profile/scott-robertson/) 
 from Boston Univ
     - Title: TBD
-- Mar 6, Friday, 11am-12, 
+- Mar 6, Friday, 11am-12, SH203
 [Peter Caines](https://www.mcgill.ca/engineering/peter-edwin-caines)
 from McGill University
     - Title: TBD
@@ -44,7 +44,7 @@ from McGill University
 [Chao Zhu](https://uwm.edu/math/people/zhu-chao/) 
 from UW-Milwaukee
     - Title: TBD
-- Mar 20 Friday, 11am-12, [George Yin](http://www.math.wayne.edu/~gyin/) from Wayne State Univ   
+- Mar 20 Friday, 11am-12, SH203 [George Yin](http://www.math.wayne.edu/~gyin/) from Wayne State Univ   
 - Mar 23, [Tim Leung](https://amath.washington.edu/people/tim-leung) from UW-Seatle
     - Title: Dynamic Index Tracking and Risk Exposure Control Using Derivatives ([abstract](2003leung.txt))
 - Apr 20th, Patriots day
