@@ -38,7 +38,7 @@ from Boston Univ
 - Mar 6, Friday, 11am-12, SH203
 [Peter Caines](https://www.mcgill.ca/engineering/peter-edwin-caines)
 from McGill University
-    - Title: TBD
+    - Title: Graphon Mean Field Games: A Dynamical Equilibrium Theory for a Networked World ([abstract](200306peter.pdf))
 - Mar 10, Term Break
 - Mar 16, 
 [Chao Zhu](https://uwm.edu/math/people/zhu-chao/) 
