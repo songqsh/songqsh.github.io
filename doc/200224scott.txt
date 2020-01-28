@@ -1,3 +1,5 @@
+
+-----------------------
 Title: Dynamic Noisy Rational Expectations Equilibrium with Heterogeneous Information.
 
 Speaker: Soctt Robertson from Boston Univ
@@ -5,12 +7,8 @@ Time:  Feb 24, 4pm
 Room: SH306
 
 Abstract: 
-In this talk, we consider equilibria in the presence of asymmetric information and misinformed agents (noise traders). 
-We establish existence of two equilibria. First, a full communication one where the informed agents' signal is disclosed to the market,
-and static policies are optimal. Second, a partial communication one where the signal disclosed is affine in the informed and 
-noise traders' signals. Here, information asymmetry creates a demand for a dark pool with endogenous participation where private 
-information trades can be implemented. Markets are endogenously complete and equilibrium prices have a three factor structure.
-Results are valid for multiple dimensions; constant absolute risk averse investors; fundamental processes following a general diffusion;
-and non-linear terminal payoffs. Asset price dynamics and public information flows are endogenous, and are established using multiple 
-filtration enlargements, in conjunction with predictable representation theorems for random analytic maps. Rational expectations 
-equilibria are special cases of the general results. This is joint work with J. Detemple and M. Rindisbacher of Boston University.
+In this talk, we consider equilibria in the presence of asymmetric information and misinformed agents (noise traders). We establish existence of two equilibria. First, a full communication one where the informed agents' signal is disclosed to the market, and static policies are optimal. Second, a partial communication one where the signal disclosed is affine in the informed and noise traders' signals. Here, information asymmetry creates a demand for a dark pool with endogenous participation where private information trades can be implemented. Markets are endogenously complete and equilibrium prices have a three factor structure. Results are valid for multiple dimensions; constant absolute risk averse investors; fundamental processes following a general diffusion; and non-linear terminal payoffs. Asset price dynamics and public information flows are endogenous, and are established using multiple filtration enlargements, in conjunction with predictable representation theorems for random analytic maps. Rational expectations equilibria are special cases of the general results. This is joint work with J. Detemple and M. Rindisbacher of Boston University.
+
+
+
+
