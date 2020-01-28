@@ -34,7 +34,7 @@ Regular meeting time is Monday 4-5pm at SH306. [Room booking](2020spring_room.pd
 - Feb 24, 
 [Soctt Robertson](https://www.bu.edu/questrom/profile/scott-robertson/) 
 from Boston Univ
-    - Title: TBD
+    - Title: Dynamic Noisy Rational Expectations Equilibrium with Heterogeneous Information; ([Abstract](200224scott.txt))
 - Mar 6, Friday, 11am-12, SH203
 [Peter Caines](https://www.mcgill.ca/engineering/peter-edwin-caines)
 from McGill University
