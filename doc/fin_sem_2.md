@@ -52,4 +52,5 @@ from UW-Milwaukee
 - Mar 20 Friday, 11am-12, SH203 [George Yin](http://www.math.wayne.edu/~gyin/) from Wayne State Univ   
 - Mar 23, [Tim Leung](https://amath.washington.edu/people/tim-leung) from UW-Seatle
     - Title: Dynamic Index Tracking and Risk Exposure Control Using Derivatives ([abstract](2003leung.txt))
+- Apr 6, Mauricio Enrique Elizalde Mejía from Universidad Autónoma de Madrid
 - Apr 20th, Patriots day
