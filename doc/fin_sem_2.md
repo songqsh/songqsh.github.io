@@ -7,29 +7,7 @@
 - WPI calendar is 
     [here](https://www.wpi.edu/academics/calendar-catalogs)
     
-__Fall 2019__ 
-
----
-
-Regular meeting time is Tuesday 4-5pm in SH203. 
-
-- Sep 10th, 4-5pm, [Hao Xing](http://www.bu.edu/questrom/profile/hao-xing/) from BU.
-  - Title: Rational inattention and dynamic discrete choice ([abstract](190910_haoxing.md))
-  
-- Oct 8th, 4-5pm, [Alex Hening](https://sites.tufts.edu/hening/) from Tufts.
-  - Title: The Inverse First Passage Time Problem for killed Brownian motion 
-  ([abstract](hening.pdf), [short abstract](hening_short.txt))
-
-- Oct 15th, Term Break
-
-- Oct 29th, 4-5pm, Ju-Yi Yen, from University of Cincinatti
-    - Title: Limit theorems and regenerative processes ([abstract](191029yen.txt))
-
-- Nov 5th, 4-5pm, [Lingjiong Zhu](https://www.math.fsu.edu/People/faculty.php?u=zhu) from FSU.
-    - Title: Stochastic Gradient Hamiltonian Monte Carlo for Non-Convex Stochastic Optimization 
-    ([abstract](191105zhu.txt))
-
-
+ 
 __Spring 2020__ 
 
 ---
@@ -54,3 +32,27 @@ from UW-Milwaukee
     - Title: Dynamic Index Tracking and Risk Exposure Control Using Derivatives ([abstract](2003leung.txt))
 - Apr 6, Mauricio Enrique Elizalde Mejía from Universidad Autónoma de Madrid
 - Apr 20th, Patriots day
+
+    
+__Fall 2019__ 
+
+---
+
+Regular meeting time is Tuesday 4-5pm in SH203. 
+
+- Sep 10th, 4-5pm, [Hao Xing](http://www.bu.edu/questrom/profile/hao-xing/) from BU.
+  - Title: Rational inattention and dynamic discrete choice ([abstract](190910_haoxing.md))
+  
+- Oct 8th, 4-5pm, [Alex Hening](https://sites.tufts.edu/hening/) from Tufts.
+  - Title: The Inverse First Passage Time Problem for killed Brownian motion 
+  ([abstract](hening.pdf), [short abstract](hening_short.txt))
+
+- Oct 15th, Term Break
+
+- Oct 29th, 4-5pm, Ju-Yi Yen, from University of Cincinatti
+    - Title: Limit theorems and regenerative processes ([abstract](191029yen.txt))
+
+- Nov 5th, 4-5pm, [Lingjiong Zhu](https://www.math.fsu.edu/People/faculty.php?u=zhu) from FSU.
+    - Title: Stochastic Gradient Hamiltonian Monte Carlo for Non-Convex Stochastic Optimization 
+    ([abstract](191105zhu.txt))
+
