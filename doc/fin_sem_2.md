@@ -43,7 +43,7 @@ from McGill University
 - Mar 16, 
 [Chao Zhu](https://uwm.edu/math/people/zhu-chao/) 
 from UW-Milwaukee
-    - Title: TBD
+    - Title:  Impulse Control Problems: Solution and Modeling ([abstract](200316zhu.md))
 - Mar 20 Friday, 11am-12, SH203 [George Yin](http://www.math.wayne.edu/~gyin/) from Wayne State Univ   
 - Mar 23, [Tim Leung](https://amath.washington.edu/people/tim-leung) from UW-Seatle
     - Title: Dynamic Index Tracking and Risk Exposure Control Using Derivatives ([abstract](2003leung.txt))
