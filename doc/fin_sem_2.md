@@ -1,5 +1,6 @@
 
 # Seminar on Financial Mathematics at WPI
+---
 
 - WPI campus map is 
     [here](https://www.wpi.edu/sites/default/files/docs/About-WPI/WPI_CampusMap.pdf)
@@ -7,6 +8,8 @@
     [here](https://www.wpi.edu/academics/calendar-catalogs)
     
 __Fall 2019__ 
+
+---
 
 Regular meeting time is Tuesday 4-5pm in SH203. 
 
@@ -28,6 +31,8 @@ Regular meeting time is Tuesday 4-5pm in SH203.
 
 
 __Spring 2020__ 
+
+---
 
 Regular meeting time is Monday 4-5pm at SH306. [Room booking](2020spring_room.pdf)
 
