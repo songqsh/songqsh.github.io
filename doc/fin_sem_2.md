@@ -31,6 +31,7 @@ from UW-Milwaukee
 - Mar 23, [Tim Leung](https://amath.washington.edu/people/tim-leung) from UW-Seatle
     - Title: Dynamic Index Tracking and Risk Exposure Control Using Derivatives ([abstract](2003leung.txt))
 - Apr 6, Mauricio Enrique Elizalde Mejía from Universidad Autónoma de Madrid
+    - Title: Optimal investments with anticipative information
 - Apr 20th, Patriots day
 
     
