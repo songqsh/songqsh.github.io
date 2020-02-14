@@ -1,4 +1,4 @@
-__Title__ : Optimal investments with anticipative information
+# Title: Optimal investments with anticipative information
 ---
 
 __Speaker__ : Mauricio Enrique Elizalde Mejía from Universidad Autónoma de Madrid
