@@ -5,7 +5,7 @@ __Speaker__ : Mauricio Enrique Elizalde Mejía from Universidad Autónoma de Mad
 
 __Date__: April 6, 2020
 
-__Room__: SH203
+__Room__: SH306
 
 __Abstract__: 
 
