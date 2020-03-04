@@ -28,6 +28,7 @@ from McGill University
 from UW-Milwaukee
     - Title:  Impulse Control Problems: Solution and Modeling ([abstract](200316zhu.md))
 - Mar 20 Friday, 11am-12, SH203 [George Yin](http://www.math.wayne.edu/~gyin/) from Wayne State Univ   
+    - Title: Stochastic Dynamic Systems and Applications: Properties, Optimal Controls, and Numerical Methods, [abstract](200320yin.md)
 - Mar 23, [Tim Leung](https://amath.washington.edu/people/tim-leung) from UW-Seatle
     - Title: Dynamic Index Tracking and Risk Exposure Control Using Derivatives ([abstract](2003leung.txt))
 - Apr 6, Mauricio Enrique Elizalde Mejía from Universidad Autónoma de Madrid
