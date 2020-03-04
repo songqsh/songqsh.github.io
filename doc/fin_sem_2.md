@@ -27,7 +27,7 @@ from McGill University
 [Chao Zhu](https://uwm.edu/math/people/zhu-chao/) 
 from UW-Milwaukee
     - Title:  Impulse Control Problems: Solution and Modeling ([abstract](200316zhu.md))
-- Mar 20 Friday, 11am-12, SH203 [George Yin](http://www.math.wayne.edu/~gyin/) from Wayne State Univ   
+- Mar 20 Friday, 11am-12, SH203, [George Yin](http://www.math.wayne.edu/~gyin/) from Wayne State Univ   
     - Title: Stochastic Dynamic Systems and Applications: Properties, Optimal Controls, and Numerical Methods, 
     - [abstract](200320yin.md)
 - (__cancelled__) Mar 23, [Tim Leung](https://amath.washington.edu/people/tim-leung) from UW-Seatle 
