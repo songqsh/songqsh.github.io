@@ -7,7 +7,7 @@
 - WPI calendar is 
     [here](https://www.wpi.edu/academics/calendar-catalogs)
     
- 
+
 __Spring 2020__ 
 
 ---
@@ -17,27 +17,31 @@ Regular meeting time is Monday 4-5pm at SH306. [Room booking](2020spring_room.pd
 - Feb 24, 
 [Soctt Robertson](https://www.bu.edu/questrom/profile/scott-robertson/) 
 from Boston Univ
+  
     - Title: Dynamic Noisy Rational Expectations Equilibrium with Heterogeneous Information; ([Abstract](200224scott.md))
 - Mar 6, Friday, 11am-12, SH203
 [Peter Caines](https://www.mcgill.ca/engineering/peter-edwin-caines)
 from McGill University
+  
     - Title: Graphon Mean Field Games: A Dynamical Equilibrium Theory for a Networked World ([abstract](200306peter.pdf))
 - Mar 10, Term Break
-- Mar 16, 
-[Chao Zhu](https://uwm.edu/math/people/zhu-chao/) 
+- (__cancelled__) Mar 16, [Chao Zhu](https://uwm.edu/math/people/zhu-chao/) 
 from UW-Milwaukee
+
     - Title:  Impulse Control Problems: Solution and Modeling ([abstract](200316zhu.md))
-- Mar 20 Friday, 11am-12, SH203, [George Yin](http://www.math.wayne.edu/~gyin/) from Wayne State Univ   
+- (__cancelled__) Mar 20 Friday, 11am-12, SH203, [George Yin](http://www.math.wayne.edu/~gyin/) from Wayne State Univ   
     - Title: Stochastic Dynamic Systems and Applications: Properties, Optimal Controls, and Numerical Methods, 
     - [abstract](200320yin.md)
 - (__cancelled__) Mar 23, [Tim Leung](https://amath.washington.edu/people/tim-leung) from UW-Seatle 
     - Title: Dynamic Index Tracking and Risk Exposure Control Using Derivatives 
     - [abstract](2003leung.txt)
-- Apr 6, Mauricio Enrique Elizalde Mejía from Universidad Autónoma de Madrid
+- (__cancelled__) Apr 6, Mauricio Enrique Elizalde Mejía from Universidad Autónoma de Madrid
+    
     - Title: Optimal investments with anticipative information ([abstract](200406mauricio.md))
 - Apr 20th, Patriots day
 
     
+
 __Fall 2019__ 
 
 ---
