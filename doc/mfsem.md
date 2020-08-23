@@ -2,6 +2,13 @@
 # Seminar on Financial Mathematics at WPI
 - WPI campus map is [here](https://www.wpi.edu/sites/default/files/docs/About-WPI/WPI_CampusMap.pdf), WPI calendar is [here](https://www.wpi.edu/academics/calendar-catalogs). 
 
+__Term A 2020__
+
+Regular meeting time is Thursday 9-10am at zoom (992 7853 8762).
+
+- Sep 10th, [Xiaolu Tan](https://www.math.cuhk.edu.hk/people/academic-staff/xltan) from CUHK
+  - Title: TBD
+
 __Spring 2020__ 
 
 ---
@@ -30,7 +37,7 @@ from UW-Milwaukee
     - Title: Dynamic Index Tracking and Risk Exposure Control Using Derivatives 
     - [abstract](2003leung.txt)
 - (__cancelled__) Apr 6, Mauricio Enrique Elizalde Mejía from Universidad Autónoma de Madrid
-    
+  
     - Title: Optimal investments with anticipative information ([abstract](200406mauricio.md))
 - Apr 20th, Patriots day
 
