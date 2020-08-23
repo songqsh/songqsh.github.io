@@ -2,6 +2,10 @@
 # Seminar on Financial Mathematics at WPI
 - WPI campus map is [here](https://www.wpi.edu/sites/default/files/docs/About-WPI/WPI_CampusMap.pdf), WPI calendar is [here](https://www.wpi.edu/academics/calendar-catalogs). 
 
+---
+
+
+
 __Term A 2020__
 
 Regular meeting time is Thursday 9-10am at zoom (992 7853 8762).
@@ -9,16 +13,17 @@ Regular meeting time is Thursday 9-10am at zoom (992 7853 8762).
 - Sep 10th, [Xiaolu Tan](https://www.math.cuhk.edu.hk/people/academic-staff/xltan) from CUHK
   - Title: TBD
 
-__Spring 2020__ 
-
 ---
+
+
+
+__Spring 2020__ 
 
 Regular meeting time is Monday 4-5pm at SH306. [Room booking](2020spring_room.pdf)
 
 - Feb 24, 
 [Soctt Robertson](https://www.bu.edu/questrom/profile/scott-robertson/) 
 from Boston Univ
-  
     - Title: Dynamic Noisy Rational Expectations Equilibrium with Heterogeneous Information; ([Abstract](200224scott.md))
 - Mar 6, Friday, 11am-12, SH203
 [Peter Caines](https://www.mcgill.ca/engineering/peter-edwin-caines)
@@ -41,11 +46,12 @@ from UW-Milwaukee
     - Title: Optimal investments with anticipative information ([abstract](200406mauricio.md))
 - Apr 20th, Patriots day
 
-    
-
-__Fall 2019__ 
 
 ---
+
+
+
+__Fall 2019__ 
 
 Regular meeting time is Tuesday 4-5pm in SH203. 
 
