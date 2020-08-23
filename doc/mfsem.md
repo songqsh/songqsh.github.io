@@ -1,7 +1,5 @@
 
 # Seminar on Financial Mathematics at WPI
-- WPI campus map is [here](https://www.wpi.edu/sites/default/files/docs/About-WPI/WPI_CampusMap.pdf), WPI calendar is [here](https://www.wpi.edu/academics/calendar-catalogs). 
-
 ---
 
 
