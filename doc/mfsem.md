@@ -1,5 +1,7 @@
-
 # Seminar on Financial Mathematics at WPI
+
+- The events will be offically announced at [here](http://labs.wpi.edu/cims/seminar-fm/).
+
 ---
 
 
