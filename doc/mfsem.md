@@ -30,7 +30,7 @@ Regular meeting time is Thursday 9-9:50am at zoom (992 7853 8762).
 | Dates |                      Speaker and Title                       |
 | :---: | :----------------------------------------------------------: |
 | 09/10 | [Xiaolu Tan](https://www.math.cuhk.edu.hk/people/academic-staff/xltan) from CUHK, <br />Title:  A C^{0,1}-functional Ito formula and its applications in finance, ([abstract](talk200910.md)) |
-| 09/17 |                                                              |
+| 09/17 |                       <img width=800/>                       |
 | 09/24 |                                                              |
 | 10/01 |                                                              |
 | 10/08 |                                                              |
