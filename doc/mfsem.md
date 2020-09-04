@@ -4,29 +4,37 @@
 
 ---
 
+__Term B 2020__
 
-
-__Term A 2020__
-
-Regular meeting time is Thursday 9-10am at zoom (992 7853 8762).
+Regular meeting time is Thursday 2-2:50pm at zoom (992 7853 8762).
 
 | Dates |                      Speaker and Title                       |
 | :---: | :----------------------------------------------------------: |
-| 09/10 | [Xiaolu Tan](https://www.math.cuhk.edu.hk/people/academic-staff/xltan) from CUHK, <br />Title:  A C^{0,1}-functional Ito formula and its applications in finance, ([abstract](XiaoluTan200910.md)) |
-|       |                                                              |
-|       |                                                              |
-|       |                                                              |
-|       |                                                              |
-|       |                                                              |
-|       |                                                              |
-|       |                                                              |
+| 10/22 | [Bin Zou](https://sites.google.com/site/zoubin019/) from UConn |
+| 10/29 |                                                              |
+| 11/05 |                                                              |
+| 11/12 |                                                              |
+| 11/19 |                                                              |
+| 11/26 |                         Thanksgiving                         |
+| 12/04 |                                                              |
+| 12/11 |                                                              |
 
 
 
-- Sep 10th, [Xiaolu Tan](https://www.math.cuhk.edu.hk/people/academic-staff/xltan) from CUHK
-  - Title:  A C^{0,1}-functional Ito formula and its applications in finance
-  - 
-    Abstract: We obtain a functional (path-dependent) extension of the Ito formula for C^{0,1} functions in Bandini and Russo (2017). We then provide some original applications in finance of this new formula, by considering an option replication problem and a super-replication problem.
+------
+
+__Term A 2020__
+
+Regular meeting time is Thursday 9-9:50am at zoom (992 7853 8762).
+
+| Dates |                      Speaker and Title                       |
+| :---: | :----------------------------------------------------------: |
+| 09/10 | [Xiaolu Tan](https://www.math.cuhk.edu.hk/people/academic-staff/xltan) from CUHK, <br />Title:  A C^{0,1}-functional Ito formula and its applications in finance, ([abstract](talk200910.md)) |
+| 09/17 |                                                              |
+| 09/24 |                                                              |
+| 10/01 |                                                              |
+| 10/08 |                                                              |
+| 10/15 |                                                              |
 
 ---
 
