@@ -17,7 +17,7 @@ Regular meeting time is Thursday 2-2:50pm at zoom (992 7853 8762).
 | 11/19 |                                                              |
 | 11/26 |                         Thanksgiving                         |
 | 12/04 |                                                              |
-| 12/11 |                      <img width=1000/>                       |
+| 12/11 |                       <img width=800/>                       |
 
 
 
