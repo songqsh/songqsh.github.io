@@ -8,7 +8,7 @@ __Term B 2020__
 
 Regular meeting time is Thursday 2-2:50pm at zoom (992 7853 8762).
 
-| Dates |                      Speaker and Title                       |
+| Date  |                    - Speaker and Title  -                    |
 | :---: | :----------------------------------------------------------: |
 | 10/22 | [Bin Zou](https://sites.google.com/site/zoubin019/) from UConn |
 | 10/29 |                                                              |
