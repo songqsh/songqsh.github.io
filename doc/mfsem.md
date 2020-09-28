@@ -33,7 +33,7 @@ Regular meeting time is Thursday 9-9:50am at zoom (992 7853 8762).
 | 09/17 |                       <img width=800/>                       |
 | 09/24 |                                                              |
 | 10/01 |                                                              |
-| 10/08 |                                                              |
+| 10/08 | [Lingfei Li](https://sites.google.com/site/lingfeilicuhk/) from CUHK, <br /> Title: TBD |
 | 10/15 |                                                              |
 
 ---
