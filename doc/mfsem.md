@@ -14,7 +14,7 @@ Regular meeting time is Thursday 2-2:50pm at zoom (992 7853 8762).
 | 10/29 |                                                              |
 | 11/05 |                   Xiaoli Wei from Berkeley                   |
 | 11/12 |                                                              |
-| 11/19 |                                                              |
+| 11/19 | Gu Wang from WPI, <br /> Title: Sharing Profits in the Sharing Economy ([abstract](talk201109.md)) |
 | 11/26 |                         Thanksgiving                         |
 | 12/04 |                                                              |
 | 12/11 |                       <img width=800/>                       |
