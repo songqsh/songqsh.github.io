@@ -12,7 +12,7 @@ Regular meeting time is Thursday 2-2:50pm at zoom (992 7853 8762).
 | :---: | :----------------------------------------------------------: |
 | 10/22 | [Bin Zou](https://sites.google.com/site/zoubin019/) from UConn, <br /> Title: Margin Constraints, Default Aversion, and Optimal Hedging in Bitcoin Futures Markets ([abstract](talk201022.md)) |
 | 10/29 |                                                              |
-| 11/05 |                   Xiaoli Wei from Berkeley                   |
+| 11/05 | Xiaoli Wei from Berkeley, <br /> Title: Itô’s formula for flow of measures on semimartingales ([abstract](talk201105.md)) |
 | 11/12 |                                                              |
 | 11/19 | Gu Wang from WPI, <br /> Title: Sharing Profits in the Sharing Economy ([abstract](talk201119.md)) |
 | 11/26 |                         Thanksgiving                         |
