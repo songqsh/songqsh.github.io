@@ -17,7 +17,7 @@ Regular meeting time is Thursday 2-2:50pm at zoom (992 7853 8762).
 | 11/19 | Gu Wang from WPI, <br /> Title: Sharing Profits in the Sharing Economy ([abstract](talk201119.md)) |
 | 11/26 |                         Thanksgiving                         |
 | 12/04 |                                                              |
-| 12/11 |                       <img width=800/>                       |
+| 12/11 |         Hussein Nasralah from WPI, <br /> Title: TBD         |
 
 
 
