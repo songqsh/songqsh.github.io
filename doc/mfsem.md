@@ -18,7 +18,7 @@ Regular meeting is Thursday 2-2:50pm at zoom  (992 7853 8762).
 | 2/25     |    Acad. Adv. Day     |
 | 2/4      |                       |
 
-
+------
 
 __Term B 2020__
 
