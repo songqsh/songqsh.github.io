@@ -4,6 +4,22 @@
 
 ---
 
+__Term C 2021__
+
+Regular meeting is Thursday 2-2:50pm at zoom  (992 7853 8762).
+
+| __Date__ | __Speaker and Title__ |
+| -------- | :-------------------: |
+| 1/21     |                       |
+| 1/28     |                       |
+| 2/4      |                       |
+| 2/11     |                       |
+| 2/18     |                       |
+| 2/25     |    Acad. Adv. Day     |
+| 2/4      |                       |
+
+
+
 __Term B 2020__
 
 Regular meeting time is Thursday 2-2:50pm at zoom (992 7853 8762).
