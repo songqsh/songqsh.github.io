@@ -1,4 +1,4 @@
-Nov 10th, [Hussein Nasralah](https://sites.google.com/site/hnasralah/) from WPI, 
+Dec 10th, [Hussein Nasralah](https://sites.google.com/site/hnasralah/) from WPI, 
 
 - Title:  Pricing American Options Using Convex Risk Measures
 
