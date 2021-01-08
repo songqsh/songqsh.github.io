@@ -15,7 +15,7 @@ Regular meeting is Thursday 2-2:50pm at zoom  (992 7853 8762).
 | 2/18     |                                                              |
 | 2/25     | ------------------------ Acad. Adv. Day ----------------------- |
 | 3/4      |                                                              |
-| 3/11     |                                                              |
+| 3/11     | [Ruoyu Wu](https://sites.google.com/site/ruoyuwu90/) from Iowa State University |
 | 3/18     |                       Friday schedule                        |
 | 3/25     |                                                              |
 | 4/1      |                                                              |
