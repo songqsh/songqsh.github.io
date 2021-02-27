@@ -1,4 +1,5 @@
-- 2pm - 2:50, March 11, 2021, Ruoyu Wu from Iowa State University
+- 2pm - 2:50, March 11, 2021, 
+- Speaker: Ruoyu Wu from Iowa State University
 - zoom: 992 7853 8762
 - Title: Graphon mean field systems: large population and long time limits
 
