@@ -14,7 +14,7 @@ Regular meeting is Thursday 2-2:50pm at zoom  (992 7853 8762).
 | 2/11     |                                                              |
 | 2/18     | [Zhenyu Cui](https://sites.google.com/site/zhenyucui86/) from [Stevens Institute of Technology](http://www.google.com/url?q=http%3A%2F%2Fwww.stevens.edu%2Fsit%2F&sa=D&sntz=1&usg=AFQjCNG_1ELufS3QnRV6PiZScQrHmDdt4g), <br /> Title: Optimal investment problem under behavioral setting: A Lagrange duality perspective ([abstract](talk210218_zhenyu.md)) |
 | 2/25     | ------------------------ Acad. Adv. Day ----------------------- |
-| 3/4      | [Xiao Shen](https://www.math.wisc.edu/~xshen/) from University of Wisconsin-Madison |
+| 3/4      | [Xiao Shen](https://www.math.wisc.edu/~xshen/) from University of Wisconsin-Madison, <br /> Title: Coalescence estimates for the corner growth model with exponential weights ([abstract](http://labs.wpi.edu/cims/2021/02/17/coalescence-estimates-for-the-corner-growth-model-with-exponential-weights/)) |
 | 3/11     | [Ruoyu Wu](https://sites.google.com/site/ruoyuwu90/) from Iowa State University, <br /> Title: Graphon mean field systems: large population and long time limits ([abstract](talk210311_ruoyuwu.md)) |
 | 3/18     |                       Friday schedule                        |
 | 3/25     |                                                              |
