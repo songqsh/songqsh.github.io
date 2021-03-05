@@ -20,8 +20,8 @@ Regular meeting is Thursday 2-2:50pm at zoom  (992 7853 8762).
 | 3/25     |                                                              |
 | 4/1      |                                                              |
 | 4/8      |                                                              |
-| 4/15     | [Nhu N. Nguyen](https://sites.google.com/view/nhunnguyen/home) from UConn, <br /> Title: TBD |
-| 4/22     |                                                              |
+| 4/15     |                                                              |
+| 4/22     | [Nhu N. Nguyen](https://sites.google.com/view/nhunnguyen/home) from UConn, <br /> Title: TBD |
 
 ------
 
