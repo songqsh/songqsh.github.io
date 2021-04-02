@@ -19,7 +19,7 @@ Regular meeting is Thursday 2-2:50pm at zoom  (992 7853 8762).
 | 3/18     |                       Friday schedule                        |
 | 3/25     |                                                              |
 | 4/1      |                                                              |
-| 4/8      |                                                              |
+| 4/8      | [Max Reppen](http://www.bu.edu/questrom/profile/max-reppen/), from BU, <br /> Title: Mean Field Games Model for Cryptocurrency Mining ([abstract](talk210408.md)) |
 | 4/15     |                                                              |
 | 4/22     | [Nhu N. Nguyen](https://sites.google.com/view/nhunnguyen/home) from UConn, <br /> Title: Biological and ecological models under stochastic perturbation, past dependence and spatial inhomogeneity: Modeling and longtime characterization ([abstract](talk210422.md)) |
 
